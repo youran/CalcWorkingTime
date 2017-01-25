@@ -1,6 +1,8 @@
 # CalcWorkingTime
 用法：  
 npm install  
+
+然后app.js中填写用户名密码后，执行：
 node ./app.js 请假天数  
 如： node ./app.js 1.5  
   
